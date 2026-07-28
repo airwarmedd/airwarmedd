@@ -1,10 +1,6 @@
 # Aditi Sharma
 
----
-
 I thrive around people, enjoy solving problems, think analytically and have the patience to build things consistently. That's what led me to growth and marketing for tech startups, helping people discover products that make their work and lives more fun & efficient.
-
----
 
 ## Growth Work
 
@@ -24,8 +20,6 @@ I thrive around people, enjoy solving problems, think analytically and have the 
 
 Plus a WhatsApp community of ~2,000 marketers who ask each other the stuff they'd never post on LinkedIn.
 
----
-
 ## Things I've Built
 
 Web apps I wanted and couldn't find, all made from a browser tab, no terminal.
@@ -35,14 +29,10 @@ Web apps I wanted and couldn't find, all made from a browser tab, no terminal.
 - [**Robotics course**](https://robotics-growth.netlify.app) - four weeks of ROS 2 and Gazebo I taught myself, shipped as a web app. You can't market to robotics engineers without knowing what a URDF is.
 - [**Portfolio**](https://airwarmedd.github.io) - a small corner of the internet for my work, writing, and videos.
 
----
-
 ## Case Studies
 
 - [**Swym**](#) - a social assignment for the Shopify app. Audited their LinkedIn, then wrote the posts and Instagram carousels around what actually earns a stop in a crowded feed, and turned a client win into a case study.
 - [**Memed / WLDD**](#) - a growth strategy for a clipping platform. A two-page overview plus a companion metrics doc that tied every input to the number it was meant to move.
-
----
 
 ## Personal
 
