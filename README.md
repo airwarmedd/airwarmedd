@@ -27,7 +27,7 @@ Web apps I wanted and couldn't find, all made from a browser tab, no terminal.
 - [**Nourish**](https://calories-tracker-orcin-nine.vercel.app) - a nutrition tracker that knows what a roti weighs, instead of making me log Indian food as a bad guess at American food. Next.js + Supabase.
 - [**GMAT course in one file**](#) - a whole course in a single HTML file: flashcards, 105 questions, and shared progress synced through Supabase so my boyfriend and I study the same thing.
 - [**Robotics course**](https://robotics-growth.netlify.app) - four weeks of ROS 2 and Gazebo I taught myself, shipped as a web app. You can't market to robotics engineers without knowing what a URDF is.
-- [**Portfolio**](https://airwarmedd.github.io) - a small corner of the internet for my work, writing, and videos.
+- [**Portfolio**](https://airwarmedd.github.io/portfolio-2026/) - a small corner of the internet for my work, writing, and videos.
 
 ## Case Studies
 
