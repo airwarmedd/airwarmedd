@@ -4,7 +4,7 @@ I thrive around people, enjoy solving problems, think analytically and have the 
 
 ## Growth Work
 
-- [**Drift**](https://godrift.ai) - run every organic channel for a robotics-sim CLI. Started video content early and pulled 50K+ views on X from a brand account in the first month.
+- [**Drift**](https://godrift.ai) - run every organic channel for a robotics-sim CLI. Started video content early and pulled 150K+ views on X from a brand account in the first month.
 - [**AlgoTest**](https://algotest.in) - Head of Content & Marketing. Drove the highest organic traffic in AlgoTest's four years, roughly 50% above a normal month, and lifted organic revenue ~36% in a quarter, while covering four roles that emptied out the month I joined.
 - [**Tanya Khanijow**](https://www.instagram.com/tanyakhanijow/) - content & social lead for the travel creator. 5x'd followers on [X](https://x.com/TanyaKhanijow) and [LinkedIn](https://www.linkedin.com/in/tanya-khanijow-62a0b199/) and 4x'd impressions, enough to unlock brand collabs and X's Creator Revenue Program.
 - [**Peerlist**](https://peerlist.io) - owned content and marketing as the sole growth function. Ads, and anything and everything else.
