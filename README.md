@@ -29,6 +29,10 @@ Web apps I wanted and couldn't find, all made from a browser tab, no terminal.
 - [**Robotics course**](https://robotics-growth.netlify.app) - four weeks of ROS 2 and Gazebo I taught myself, shipped as a web app. You can't market to robotics engineers without knowing what a URDF is.
 - [**Portfolio**](https://airwarmedd.github.io/portfolio-2026/) - a small corner of the internet for my work, writing, and videos.
 
+## WHO I AM?
+
+- [**Taste**](https://airwarmedd.github.io/taste/): What I watch, read and keep going back to. This is my way of convincing you I have taste.
+
 ## Case Studies
 
 - [**Swym**](#) - a social assignment for the Shopify app. Audited their LinkedIn, then wrote the posts and Instagram carousels around what actually earns a stop in a crowded feed, and turned a client win into a case study.
